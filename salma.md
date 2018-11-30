@@ -5,8 +5,7 @@
     2. Types de frameworks
     3. Frameworks : Quels avantages et quels inconvénients ?
     4. Django, c'est quoi ?
-    5. Design patterns et bonnes pratiques
-    6. Ecosystème d'une application Django
+    5. MVC/MVT
 2. Créer son premier projet sur Django
     1. Créer un projet et une première application
     2. Conception des premiers modèles
@@ -58,7 +57,6 @@ Le Modèle-vue-contrôleur ou MVC est un type d'architecture logicielle destiné
    ![](https://camo.githubusercontent.com/2fd581466b72e4b92e5893ea842b0ee085fff68d/68747470733a2f2f646f63732e676f6f676c652e636f6d2f64726177696e67732f642f314c456f30356854445f45435a355647356f664d6468327434445f4c6769416e626c752d65305435386645342f7075623f773d39363026683d373230)  
    source: [github](https://github.com/emencia/emencia-django-training/wiki/Mod%C3%A8le-MVT)  
 
-## 6- Ecosystème d'une application Django
 
 # II - Créer son premier projet sur Django
 ## 1 - Créer un projet et une première application
